@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="banner-mysql.png" alt="Banner MySQL SQL Database Specialist" width="100%">
+  <img src="banner-mysql.jpg" alt="Banner MySQL SQL Database Specialist" width="100%">
 </div>
 
 # Repositório: mysql_sql_database_specialist
