@@ -66,3 +66,21 @@ mysql_sql_database_specialist/
 │
 ├── Captura de tela de 2023-10-02...   # Evidências e capturas de validação arquitetural
 └── README.md                          # Documentação central do repositório
+
+---
+
+### 💻 Projetos e Portfólios
+* **Dev Hub:** [tozato-dev-hub.vercel.app](https://tozato-dev-hub.vercel.app)
+* **H-Folio:** [h-folio-psi.vercel.app](https://h-folio-psi.vercel.app)
+---
+### 📊 Analytics e BI
+* **Aurora BI:** [aurora-bi-dio.lovable.app](https://aurora-bi-dio.lovable.app)
+---
+### 🐙 Código e Repositórios
+* **GitHub:** [github.com/Rafael-TOZATO](https://github.com/Rafael-TOZATO)
+---
+### 📝 Artigos e Publicações
+* **Medium:** [medium.com/@ornelas.tozato](https://medium.com/@ornelas.tozato)
+---
+### 🎓 Certificações e Educação
+* **Microsoft Learn:** [Transcrito Oficial](https://learn.microsoft.com/pt-br/users/rafaelornelastozato-2209/transcript/dzo2wizrkx2853)
