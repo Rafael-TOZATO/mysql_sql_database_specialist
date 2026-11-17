@@ -10,13 +10,26 @@
 [![Python](https://img.shields.io/badge/PYTHON-AI-yellow)](https://github.com/Rafael-TOZATO)
 [![Lean Six Sigma](https://img.shields.io/badge/LEAN%20SIX%20SIGMA-GREEN%20BELT-purple)](https://github.com/Rafael-TOZATO)
 
----
-
 ## 📋 Descrição do Projeto
 
 Repositório oficial e estruturado para a formação avançada de **MySQL SQL Database Specialist**, focado no design de arquiteturas relacionais, modelagem conceitual e lógica de bancos de dados, modelagem dimensional, manipulação avançada via DDL/DML, otimização de performance com índices, controle de concorrência, transações seguras e estratégias robustas de backup e recuperação.
 
----
+## 📬 CONTATOS E PERFIS
+
+💻 **PROJETOS E PORTFÓLIOS**
+* Ecossistema de Aplicativos: [tozato-ai-core.vercel.app](https://tozato-ai-core.vercel.app)
+* H-Folio Professional: [h-folio-I0.vercel.app](https://h-folio-I0.vercel.app)
+
+🐙 **CÓDIGOS E REPOSITÓRIOS**
+* GitHub: [github.com/Rafael-TOZATO](https://github.com/Rafael-TOZATO)
+
+✍️ **ARTIGOS E PUBLICAÇÕES**
+* Medium: [medium.com/@ornelas.tozato](https://medium.com/@ornelas.tozato)
+* Comunidade DEV: [dev.to/rafaeltozato](https://dev.to/rafaeltozato)
+
+💼 **CONTATO**
+* LinkedIn: [linkedin.com/in/rafaeltozato81](https://www.linkedin.com/in/rafaeltozato81)
+* E-mail: ornelas.tozato@gmail.com
 
 ## 📂 Estrutura Detalhada do Repositório
 
@@ -66,21 +79,3 @@ mysql_sql_database_specialist/
 │
 ├── Captura de tela de 2023-10-02...   # Evidências e capturas de validação arquitetural
 └── README.md                          # Documentação central do repositório
-
----
-
-### 💻 Projetos e Portfólios
-* **Dev Hub:** [tozato-dev-hub.vercel.app](https://tozato-dev-hub.vercel.app)
-* **H-Folio:** [h-folio-psi.vercel.app](https://h-folio-psi.vercel.app)
----
-### 📊 Analytics e BI
-* **Aurora BI:** [aurora-bi-dio.lovable.app](https://aurora-bi-dio.lovable.app)
----
-### 🐙 Código e Repositórios
-* **GitHub:** [github.com/Rafael-TOZATO](https://github.com/Rafael-TOZATO)
----
-### 📝 Artigos e Publicações
-* **Medium:** [medium.com/@ornelas.tozato](https://medium.com/@ornelas.tozato)
----
-### 🎓 Certificações e Educação
-* **Microsoft Learn:** [Transcrito Oficial](https://learn.microsoft.com/pt-br/users/rafaelornelastozato-2209/transcript/dzo2wizrkx2853)
